@@ -1,0 +1,48 @@
+div{
+	border: 5px solid #338333;
+	height: 270px;
+	width: 250px;	
+	margin: 20px auto;
+	font-family: 'Lato', sans-serif;
+	border-radius: 12px;
+}
+table{
+	margin: auto;
+	text-align: center;
+	border-collapse: collapse;
+}
+table, th, td{
+	padding: 2px;
+}
+table>caption{
+	background-color: #7FFF00;
+	margin: 15px 3px 10px;
+	letter-spacing: 2px;
+	padding: 7px 4px;
+	color: white;	
+	text-transform: uppercase; 	
+	border-radius: 6px;
+}
+tr th{
+	padding: 5px 2px 4px;
+}
+.marking{
+	color: #FF5733;
+}
+p{
+	text-align: center;
+	margin: 4px auto;
+}
+
+span{
+	position: relative;
+	bottom: 18px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #338333;
+}
+a{
+	position: absolute;
+	right: 100px;
+	top: 150px;
+}
